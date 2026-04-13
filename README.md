@@ -1,2 +1,2 @@
 # SSL
-Resolución de guías, trabajos prácticos y proyectos para la asignatura Sintaxis y Semántica de Lenguajes. Incluye teoría de autómatas y desarrollo de analizadores léxicos y sintácticos.
+Resoluciones de los trabajos prácticos de Sintaxis y Semántica de Lenguajes (SSL) - UTN FRBA. Desarrollo en C23
